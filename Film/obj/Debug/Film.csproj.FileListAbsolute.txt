@@ -1,0 +1,7 @@
+D:\Users\wojciech.pietrzak\source\repos\Film\Film\bin\Debug\Film.exe.config
+D:\Users\wojciech.pietrzak\source\repos\Film\Film\bin\Debug\Film.exe
+D:\Users\wojciech.pietrzak\source\repos\Film\Film\bin\Debug\Film.pdb
+D:\Users\wojciech.pietrzak\source\repos\Film\Film\obj\Debug\Film.csproj.AssemblyReference.cache
+D:\Users\wojciech.pietrzak\source\repos\Film\Film\obj\Debug\Film.csproj.CoreCompileInputs.cache
+D:\Users\wojciech.pietrzak\source\repos\Film\Film\obj\Debug\Film.exe
+D:\Users\wojciech.pietrzak\source\repos\Film\Film\obj\Debug\Film.pdb

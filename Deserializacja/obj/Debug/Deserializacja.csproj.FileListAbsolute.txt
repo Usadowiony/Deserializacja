@@ -1,0 +1,10 @@
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\bin\Debug\Deserializacja.exe.config
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\bin\Debug\Deserializacja.exe
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\bin\Debug\Deserializacja.pdb
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\obj\Debug\Deserializacja.csproj.AssemblyReference.cache
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\obj\Debug\Deserializacja.Form1.resources
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\obj\Debug\Deserializacja.Properties.Resources.resources
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\obj\Debug\Deserializacja.csproj.GenerateResource.cache
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\obj\Debug\Deserializacja.csproj.CoreCompileInputs.cache
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\obj\Debug\Deserializacja.exe
+D:\Users\wojciech.pietrzak\source\repos\Film\Deserializacja\obj\Debug\Deserializacja.pdb
